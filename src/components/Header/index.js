@@ -13,7 +13,7 @@ const Header = () => {
             Hey, my name is{' '}
             <span className='name-text-color'> Abraham Zilberblat</span>
             <br />
-            I'm a Software engineer that looking for my next challenge
+            I'm a Software engineer and I'm looking for my next challenge
           </h1>
           <a className='headerBtn' href='#about'>
             See More

@@ -13,7 +13,7 @@ const About = () => {
               My name is Abraham zilberblat and I'm a self taught full-stack developer
               who specialises in  React, Machine learning, Web development and Mobile. I am a recent graduate with a BSc
               in Software Engineering. Love to tackle challenges and unknown
-              areas and learn new technologies every day I believe that together with my multitasking
+              areas and learn new technologies every day. I believe that together with my multitasking
               capabilities, fast learning skills and creative mind, those will
               set me up for both company and individual success from day one.
             </p>
